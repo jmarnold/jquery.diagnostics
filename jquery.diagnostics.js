@@ -72,7 +72,8 @@
             opacity: .90,
             'border-radius': '10px',
             background: '#222 none repeat scroll 0',
-            height: '40%'
+            height: '40%',
+            'z-index':9999
         });
     }
     
